@@ -1,4 +1,4 @@
-# Nostr npub Generator
+# Nostr Npub Generator
 
 ## วิธีใช้งาน
 
